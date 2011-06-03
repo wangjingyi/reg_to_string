@@ -11,7 +11,9 @@ Structure:
 Example:
 
   eval = make_evaluator()
+
   console.log eval "abc"   
+
   console.log eval "abc|defg" 
 
 you can find more examples in the example.coffee file
